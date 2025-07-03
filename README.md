@@ -13,6 +13,7 @@ Also taught by [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), this 
 - A file named video_url.txt contains links to our recorded presentations that explain each project in more detail.
 
 🤝 Team Acknowledgment
+
 These projects were collaborative efforts and would not have been possible without the contributions of:
 - Annie Xu
 - Vaidehi Sinha
